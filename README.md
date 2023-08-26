@@ -1,7 +1,12 @@
 # Vrinda-store-Analysis-Dashboard-Excel-
 
 # Objective
-Vrinda store wants to create annual sales report for 2022.So that, Vrinda can understand their customer and grow more sales in 2023. 
+Vrinda store wants to create annual sales report for 2022.So that, Vrinda can understand their customer and grow more sales in 2023.
+
+# Steps
+1) Data Cleaning
+2) Data Processing
+3) Data Anlysis
 
 # Insights 
 1) Women are more likely to buy compared to men. (65%)
@@ -12,7 +17,6 @@ Vrinda store wants to create annual sales report for 2022.So that, Vrinda can un
 Final conclusion to improve Vrinda store sales:
 Target women customers of age group 30-49yrs living in Maharashtra, Karnataka, Uttar Pradesh by showing ads, offers, coupons on Amazon, Flipkart, Myntra.
 
-# Steps
-1) Data Cleaning
-2) Data Processing
-3) Data Anlysis
+# Output
+![Vrinda analysis](https://github.com/Sarveshg09/Vrinda-store-Analysis-Dashboard-Excel-/assets/98415226/e4ec596b-5db0-4c6d-92aa-d1f900502006)
+
